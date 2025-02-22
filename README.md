@@ -4,7 +4,7 @@
 ## Building a daily task scheduler application using Amazon PartyRock 
 
 
->  Here is the myown Demo published App using [PartyRock](https://partyrock.aws/u/Adhil/PAGBXiQFZ/Task-Scheduler).
+>  Here is the my own Demo published App using [PartyRock](https://partyrock.aws/u/Adhil/PAGBXiQFZ/Task-Scheduler).
 
 
 
